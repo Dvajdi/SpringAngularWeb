@@ -16,6 +16,7 @@
     <!-- themes can be put in different folder such as
         <mvc:resources mapping="/resources/**" location="/resources/themeBlue" />
         <mvc:resources mapping="/resources/**" location="/resources/themeGreen" />
+
      -->
 
 </beans>
