@@ -72,6 +72,7 @@
                         <li>
                             <a href="portfolio-2-col.html">Пока</a>
                         </li>
+
                         <li>
                             <a href="portfolio-3-col.html">Как дела?</a>
                         </li>
